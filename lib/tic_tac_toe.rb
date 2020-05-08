@@ -5,6 +5,6 @@ class TicTacToe
     @board = [" ", " "," ", " ", " ", " ", " ", " ", " "]
   end
     
-  WIN_COMBINATIONS = []
+  WIN_COMBINATIONS = [[1, 2, 3]]
   
 end
